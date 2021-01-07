@@ -1,0 +1,19 @@
+body {
+  background-color:#579c84;
+  color:red;
+}
+p{
+  
+}
+h2{
+  color:blue;
+}
+li{
+  font-size:20px;
+  list-style-type:none;
+}
+#about{
+  background-color:red;
+  width:500px;
+  height:130px;
+}
